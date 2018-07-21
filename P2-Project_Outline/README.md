@@ -7,11 +7,19 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My project will help donors to a non-profit organization choose the projects(s) they wish to fund and view their own record of giving in real time.  Conversely the organization will have a record of contributors by fund and of contributions by donors accessed by an administrative access log-in. My project should incorporate the payment instruments, like Paypal or ApplePay, and provide report views for both individual contributors and the non-profitadministrators.
+
 ### Features
-Include Features here
+Users will create their own sign-ins, and will eventually be able to use payment instruments to fund their contributions to different areas of the non-profit and their total contributions to the non-profit in real time.  The non-profit in turn will have administrator access to view the funds' contributors, and track fund balances.
+
 ### Technologies
-Include Technologies here
+Spring
+Java
+Bootstrap
+Hibernate
+SQL
+Javascript
+
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will need to learn how to structure different levels of log-in access. I will also have to learn how my application will accommodate third-party payment instruments, through the use of API's.  I will perhaps learn to strenghten my front-end abilities to make my project have the highest user-experience possible.  Maybe the project could be expanded to help multiple organizations simultaneously, though I imagine this is truly an "backlog" idea.
