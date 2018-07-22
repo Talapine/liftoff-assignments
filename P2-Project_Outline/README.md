@@ -13,12 +13,12 @@ My project will help donors to a non-profit organization choose the projects(s) 
 Users will create their own sign-ins, and will eventually be able to use payment instruments to fund their contributions to different areas of the non-profit and their total contributions to the non-profit in real time.  The non-profit in turn will have administrator access to view the funds' contributors, and track fund balances.
 
 ### Technologies
-  *Spring Boot
-  *Java
-  *Hibernate
-  *MySQL
-  *Bootstrap
-  *Thymeleaf templates
+..*Spring Boot
+..*Java
+..*Hibernate
+..*MySQL
+..*Bootstrap
+..*Thymeleaf templates
 
 
 ### What I'll Have to Learn
