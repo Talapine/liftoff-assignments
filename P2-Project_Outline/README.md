@@ -23,6 +23,10 @@ Users will create their own sign-ins, and will eventually be able to use payment
 ### Project Tracker Link
 [Agape Offerings Tracker](https://www.pivotaltracker.com/n/projects/2186603/)
 
+###  Wireframes
+Please see message to Lindsey in Slack.
+
+
 
 ### What I'll Have to Learn
 I will need to learn how to structure different levels of log-in access. I will also have to learn how my application will accommodate third-party payment instruments, through the use of API's.  I will perhaps learn to strenghten my front-end abilities to make my project have the highest user-experience possible.  Maybe the project could be expanded to help multiple organizations simultaneously, though I imagine this is truly a "backlog" idea.
