@@ -27,7 +27,7 @@ Users will create their own sign-ins, and will eventually be able to use payment
 Please see message to Lindsey in Slack.
 
 ###  Project Link
-[Agape Offerings Tracker](https://github.com/Talapine/Agape-Offerings-Tracker)
+[Agape Offerings Tracker](https://github.com/Talapine/agape-offerings-tracker.git)
 Still need to push repository from Intelli-j
 
 ### What I'll Have to Learn
