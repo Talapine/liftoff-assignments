@@ -10,7 +10,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 My project will help donors to a non-profit organization choose the projects(s) they wish to fund and view their own record of giving in real time.  Conversely the organization will have a record of contributors by fund and of contributions by donors accessed by an administrative access log-in. Eventually, my project should incorporate third-party payment instruments, like Paypal or ApplePay, as options for donors to make contributions, but the minimum viable product will just keep records of contributions and provide report views for both individual contributors and the non-profit administrators.
 
 ### Features
-Users will create their own sign-ins, and will eventually be able to use payment instruments to fund their contributions to different areas of the non-profit and their total contributions to the non-profit in real time.  The non-profit in turn will have administrator access to view the funds' contributors, and track fund balances.
+Users will create their own sign-ins, and will eventually be able to use payment instruments to fund their contributions to different areas of the non-profit and see their total contributions to the non-profit in real time.  The non-profit in turn will have administrator access to view the funds' contributors, and track fund balances.
 
 ### Technologies
   *Spring Boot  
