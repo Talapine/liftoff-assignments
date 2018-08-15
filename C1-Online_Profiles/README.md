@@ -7,7 +7,7 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-Provide a link to your GitHub account here.
+[Here's a link to Terry Haynie's Github profile](https://github.com/Talapine/)
 
 ### LinkedIn
 Provide a link to your LinkedIn account here.
